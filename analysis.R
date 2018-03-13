@@ -11,3 +11,7 @@ plot(x,y)
 a <- rnorm(200, mean=10)
 b <- 3*a - 7
 plot(a,b)
+
+# histogram of source variable
+hist(a)
+
