@@ -1,0 +1,3 @@
+# ClumsyWeasel
+Basic project for experimenting with R Code and learning functionality of Git
+Just a sandbox...
